@@ -1,0 +1,26 @@
+header{
+	background-color:#8dcb41;
+	margin: 50px
+	border-style:solid;
+	border-width:60px;
+}
+.portugal{
+	background-color:#e3372e;
+	padding:50px;
+}
+.iguaçu{
+	background-color:#4a2885;
+	padding:50px;
+}
+.frança{
+	background-color:#8dcb41;
+	padding:50px;
+}
+.brasil{
+	background-color:#e5325e;
+	padding:50px;
+}
+
+img{
+	width:150px;
+}
